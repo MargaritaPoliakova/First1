@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Справочник химика</string>
+    <string name="salt">Соль</string>
+    <string name="acid">Кислота</string>
+    <string name="lye">Основание</string>
+    <string name="oxide">Оксид</string>
+    <string name="oxide1"></string>
+    <string name="oxide2"></string>
+    <string name="oxide3"></string>
+    <string name="oxide4"></string>
+    <string name="oxide5"></string>
+    <string name="lye1"></string>
+    <string name="lye2"></string>
+    <string name="lye3"></string>
+    <string name="lye4"></string>
+    <string name="lye5"></string>
+    <string name="acid1"></string>
+    <string name="acid2"></string>
+    <string name="acid3"></string>
+    <string name="acid4"></string>
+    <string name="acid5"></string>
+    <string name="salt1"></string>
+    <string name="salt2"></string>
+    <string name="salt3"></string>
+    <string name="salt4"></string>
+    <string name="salt5"></string>
+</resources>
